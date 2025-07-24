@@ -17,7 +17,7 @@
         tools:targetApi="31" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAacaZbJ4iPxIjiIcU9mE-U-HYmaqjwpzg" />
+            android:value="_______________________" />
         <activity
             android:name=".UpdateNoteActivity"
             android:exported="false" />
